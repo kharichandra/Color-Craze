@@ -43,7 +43,9 @@ Color Craze is a fun, interactive Flutter app that lets users tap the screen to 
 - `animated_text_kit` – displays fun animated text
 
 ## 📱 Screenshots
-_(Add screenshots of app in different colors and texts here)_
+![App Screenshot](screenshots/Simulator_Screenshot1.png)
+![App Screenshot](screenshots/Simulator_Screenshot2.png)
+![App Screenshot](screenshots/Simulator_Screenshot3.png)
 
 ````
 
